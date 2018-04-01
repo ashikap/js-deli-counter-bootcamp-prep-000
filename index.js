@@ -13,3 +13,4 @@ var takeANumber = function(katzDeli, newCustomer) {
   lineArr.shift()
   return "Currently serving " + first + "."
 }
+
